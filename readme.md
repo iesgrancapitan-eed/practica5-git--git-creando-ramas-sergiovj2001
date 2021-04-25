@@ -1,3 +1,6 @@
+# 4.12 práctica 5 git.creando ramas
+
+## Índice:
 1. Las ramas utilizadas son 
 Ramas de desarrollo y maestra (develop, master, main)
 Ramas de función (feature)
@@ -12,4 +15,6 @@ Cuando la rama de publicación está lista, se fusiona en la de desarrollo y la 
 Si se detecta una incidencia en la maestra, se crea una rama de corrección a partir de la maestra.
 Una vez que la corrección está completa, se fusiona tanto con la de desarrollo como con la maestra.
 3. Adjunta un pantallazo del comando git log --oneline --decorate --graph --all
+![4.12](images/3-4.PNG)
 4. Una vez subido el repositorio CON TODAS SUS RAMAS, adjunta un pantallazo del apartado de GitHub "Insights"/"Network graph" 
+![4.12](images/5.PNG)
