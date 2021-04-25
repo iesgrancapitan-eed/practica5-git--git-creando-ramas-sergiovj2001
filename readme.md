@@ -3,7 +3,6 @@ Ramas de desarrollo y maestra (develop, master, main)
 Ramas de función (feature)
 Ramas de publicación (release)
 Ramas de corrección (hotfix)
-
 2. El flujo general de Gitflow es el siguiente:
 Se crea una rama de desarrollo a partir de la maestra.
 Una rama de publicación se crea a partir de la de desarrollo.
